@@ -1,0 +1,13 @@
+Data/
+features/
+checkpoints_*/
+blend_artifacts/
+stacking_artifacts/
+submissions/
+__pycache__/
+*.pyc
+.DS_Store
+train_target.parquet
+train_main_features.parquet
+train_extra_features.parquet
+test_main_features.parquet
